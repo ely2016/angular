@@ -1,0 +1,26 @@
+[
+   {
+	 "id": "1",
+	 "titulo": "Aladino y la lámpara maravillosa",
+	 "autor": "Antoine Galland",
+	 "editorial": "Buena Vista Distribution Company",
+	 "descripcion": "Aladino es un joven muy humilde que, junto con su inseparable mono Abú, se dedica a robar o engañar a la gente de Agrabah para poder sobrevivir, soñando con ser algún día alguien importante.Un día, Aladino se encuentra con Jasmín, la preciosa hija del Sultán, y se enamora perdidamente de ella. El problema es que las leyes obligan a Jasmín a casarse con un príncipe antes de su próximo cumpleaños.Inesperadamente, la suerte de Aladino cambia cuando un hechicero llamado Jafar le propone conseguir todas las riquezas que se pueda imaginar a cambio de que él le consiga una vieja lámpara de las profundidades de la Cueva de las Maravillas, donde reside un divertido genio.Cuando Aladino le da la lámpara a Jafar él lo traiciona y hace que se quede atrapado en la cueva, pero Abú le quita la lámpara a Jafar y consiguen sacar al genio, que les ayuda a escapar de la peligrosa cueva. El genio le dice que puede pedir 3 deseos por haber frotado la lámpara y Aladino utiliza su primer deseo para convertirse en príncipe y poder casarse con Jasmín.",
+	 "img": "img/img1.jpg"
+	},
+	{
+	 "id": "2",
+	  "titulo": "Blancanieves y los 7 enanitos",
+	 "autor": " Hermanos Grimm",
+	 "editorial": "S.A. LIBRO HOBBY CLUB",
+	 "descripcion": "Erase una vez una hermosa reina que deseaba ardientemente la llegada de una niña. Un día que se encontraba sentada junto a la ventana en su aro de ébano, se pico el dedo con la aguja, y pequeñas gotas de sangre cayeron sobre la nieve acumulada en el antepecho de la ventana. La reina contempló el contraste de la sangre roja sobre la nieve blanca y suspiro.Poco tiempo después, su deseo se hizo realidad al nacerle una hermosa niña con piel blanca, labios rojos y cabello negro a quien dio el nombre de Blanca Nieves.Desafortunadamente, la reina murió cuando la niña era muy pequeña y el padre de Blanca Nieves contrajo matrimonio con una hermosa mujer y cruel que se preocupaba más de su apariencia física que de hacer buenas acciones.",
+	 "img": "img/img2.jpg"
+	},
+	{
+	 "id": "3",
+	 "titulo": "Caperucita Roja",
+	 "autor": " Charles Perrault",
+	 "editorial": "Edhasa",
+	 "descripcion": "Había una vez una adorable niña que era querida por todo aquél que la conociera, pero sobre todo por su abuelita, y no quedaba nada que no le hubiera dado a la niña. Una vez le regaló una pequeña caperuza o gorrito de un color rojo, que le quedaba tan bien que ella nunca quería usar otra cosa, así que la empezaron a llamar Caperucita Roja. Un día su madre le dijo:“Ven, Caperucita Roja, aquí tengo un pastel y una botella de vino, llévaselas en esta canasta a tu abuelita que esta enfermita y débil y esto le ayudará. Vete ahora temprano, antes de que caliente el día, y en el camino, camina tranquila y con cuidado, no te apartes de la ruta, no vayas a caerte y se quiebre la botella y no quede nada para tu abuelita. Y cuando entres a su dormitorio no olvides decirle, “Buenos días”, ah, y no andes curioseando por todo el aposento.",
+	 "img": "img/img3.jpg"
+	}
+]
